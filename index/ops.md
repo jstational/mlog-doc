@@ -6,7 +6,7 @@
 * `*` internally `mul`  
 * `/` internally `div`  
 * `//` internally `idiv`, integer division, extracts the quotient  
-* `%` internally `mod`, modulo, extracts the remainder, but not mathematically  
+* `%` internally `mod`, modulo, extracts the remainder, but not mathematically (can return negative values)  
 * `%%` internally `emod`, true modulo, extracts the remainder
 * `^` internally `pow`  
 
